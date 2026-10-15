@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Samir Akash
 
-🎓 First Year B.Tech Student | 💻 Aspiring Developer | 🇮🇳 India
+🎓  B.Tech Student | 💻 Aspiring Developer | 🇮🇳 India
 
 ---
 
